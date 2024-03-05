@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 54;
+	objectVersion = 60;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -883,7 +883,7 @@
 				};
 			};
 			buildConfigurationList = 34ACFBB622EB0B0E004E6E63 /* Build configuration list for PBXProject "Yippy" */;
-			compatibilityVersion = "Xcode 9.3";
+			compatibilityVersion = "Xcode 15.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -1851,10 +1851,10 @@
 /* Begin XCRemoteSwiftPackageReference section */
 		345DCFBB2420C2D2003E214D /* XCRemoteSwiftPackageReference "HotKey" */ = {
 			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/mattDavo/HotKey";
+			repositoryURL = "https://github.com/stvleung/HotKey";
 			requirement = {
 				kind = exactVersion;
-				version = 0.1.5;
+				version = 0.2.1;
 			};
 		};
 		34EC0FF22504A599004E1A63 /* XCRemoteSwiftPackageReference "fuse-swift" */ = {

@@ -30,10 +30,10 @@
     {
       "identity" : "hotkey",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/mattDavo/HotKey",
+      "location" : "https://github.com/stvleung/HotKey",
       "state" : {
-        "revision" : "fd5493d0e30e1f8ae4bce708a2446746c11e7a15",
-        "version" : "0.1.5"
+        "revision" : "300689c77d1dfeb28ff90fa272750b0eed14a5aa",
+        "version" : "0.2.1"
       }
     },
     {
